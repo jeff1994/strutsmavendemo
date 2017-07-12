@@ -1,0 +1,1 @@
+#使用maven-struts2-archetype-starter生成struts2的maven项目
